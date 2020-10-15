@@ -1,6 +1,6 @@
 # NY Citibike with Tableau
 
-Link to my Tableau Story: 
+[Link to my Tableau Story](https://public.tableau.com/profile/neele.pantfoerder#!/vizhome/NYC_Citibikes/NYCCitiBikeStory)
 
 ## Overview of the Analysis
 ### Purpose
@@ -8,10 +8,10 @@ After experiencing Citi Bikes in New York City, Kate wants to start a similar bi
 
 ## Results
 ### Visualizations from Tableau
-<img src='https://github.com/npantfoerder/bikesharing/blob/master/Visualizations/checkout_times.png' width=800> 
+<kbd> <img src='https://github.com/npantfoerder/bikesharing/blob/master/Visualizations/checkout_times.png' width=800> </kbd>
 The above line graph shows the relationship between trip duration and the number of bike rides. The graph is skewed to the left with the most popular trip duration (3,005 bike rides) being 5 hours and 15 minutes. The there were 663 bike rides with the longest trip duration of 23 hours and 59 minutes.
 <br><br>
-<img src='https://github.com/npantfoerder/bikesharing/blob/master/Visualizations/checkout_times_gender.png' width=800> 
+<kbd> <img src='https://github.com/npantfoerder/bikesharing/blob/master/Visualizations/checkout_times_gender.png' width=800> </kbd>
 The graph above shows the same relationship as the previous graph, broken down by gender. It shows that the most popular gender of the riders is male, followed by female, and then unknown. The most popular trip durations are 5 hours and 46 minutes for males (2,152 rides), 6 hours and 46 minutes for females (746 rides), and 7 hours and 10 minutes for unknown genders (217 rides).
 <br><br>
 <img src='https://github.com/npantfoerder/bikesharing/blob/master/Visualizations/trips_weekday.png' width=600> 
